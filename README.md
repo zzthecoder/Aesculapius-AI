@@ -13,16 +13,20 @@ Aesculapius AI is a desktop application that empowers users to repair instead of
 
 **Repair First, Replace Last** - Reduce electronic waste and support local businesses through intelligent DIY repair guidance.
 
+Download: 
+
 ## ✨ Key Features
-<img width="1917" height="1027" alt="Screenshot 2025-10-04 173803" src="https://github.com/user-attachments/assets/b3736b7b-d7c1-4a0b-a737-87f362e7bac3" /><img width="795" height="624" alt="Screenshot 2025-10-04 175431" src="https://github.com/user-attachments/assets/4705f7db-91f3-48a6-b1de-7c80df71a4bb" />
-<img width="494" height="888" alt="Screenshot 2025-10-04 174108" src="https://github.com/user-attachments/assets/85db35b8-5015-432c-a29f-d0f8db2cf501" />
 <img width="789" height="625" alt="Screenshot 2025-10-04 174059" src="https://github.com/user-attachments/assets/5cd4f91f-0602-4f85-9284-508e77cf2ee8" />
-<img width="1357" height="613" alt="Screenshot 2025-10-04 174041" src="https://github.com/user-attachments/assets/26c30659-30f9-4cad-835a-a432f9d7bc27" />
-<img width="393" height="347" alt="Screenshot 2025-10-04 174023" src="https://github.com/user-attachments/assets/b40af169-24a0-47a2-8d23-90562b3c1d42" />
-<img width="1358" height="586" alt="Screenshot 2025-10-04 173951" src="https://github.com/user-attachments/assets/819c4f36-df0f-4315-b6cd-9eed863841b3" />
-<img width="1342" height="666" alt="Screenshot 2025-10-04 173940" src="https://github.com/user-attachments/assets/76a6639b-0695-493a-baff-72b91506a8ce" />
-<img width="582" height="313" alt="Screenshot 2025-10-04 173902" src="https://github.com/user-attachments/assets/84ad254a-4e4c-42e9-a4fb-469a78757cbf" />
-<img width="1917" height="1027" alt="Screenshot 2025-10-04 173757" src="https://github.com/user-attachments/assets/19eb2961-3605-4e7c-92a3-42fcb6489423" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3736b7b-d7c1-4a0b-a737-87f362e7bac3" alt="Screenshot 1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4705f7db-91f3-48a6-b1de-7c80df71a4bb" alt="Screenshot 2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/85db35b8-5015-432c-a29f-d0f8db2cf501" alt="Screenshot 3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/819c4f36-df0f-4315-b6cd-9eed863841b3" alt="Screenshot 4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/76a6639b-0695-493a-baff-72b91506a8ce" alt="Screenshot 5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/84ad254a-4e4c-42e9-a4fb-469a78757cbf" alt="Screenshot 6" width="250"/>
+  <img src="https://github.com/user-attachments/assets/19eb2961-3605-4e7c-92a3-42fcb6489423" alt="Screenshot 7" width="250"/>
+</p>
+
 
 
 
