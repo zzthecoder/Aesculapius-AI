@@ -1,0 +1,26 @@
+# FixMate - Repair Assistant App
+# Python Dependencies
+
+# Core Framework
+PySide6>=6.5.0
+
+# LLM Integration (Embedded - Pre-built wheels)
+# Install with: pip install -r requirements.txt --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python>=0.2.0
+requests>=2.31.0
+
+# Web Scraping (Optional - for advanced parts lookup)
+scrapy>=2.11.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Enhanced Search (Optional - farfalle integration would require additional setup)
+# Note: farfalle is a separate service that would need to be run independently
+# See: https://github.com/rashadphz/farfalle
+
+# Data Handling
+python-dateutil>=2.8.0
+
+# Optional: For future enhancements
+# selenium>=4.15.0  # For dynamic web scraping
+# playwright>=1.40.0  # Alternative for dynamic content
