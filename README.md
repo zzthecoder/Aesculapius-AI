@@ -14,6 +14,7 @@ Aesculapius AI is a desktop application that empowers users to repair instead of
 **Repair First, Replace Last** - Reduce electronic waste and support local businesses through intelligent DIY repair guidance.
 
 Download: https://drive.google.com/file/d/1Jx3A5eUb4T2NTLWGkWarzA4e885BSg-i/view?usp=sharing
+
 *May show contains Virus, click ignore and run. Not Microsft Cert." 
 
 ## ✨ Key Features
